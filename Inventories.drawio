@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T05:02:25.913Z" agent="5.0 (X11)" etag="SJrwileEaMP2-b6mBJOL" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-12T05:23:31.898Z" agent="5.0 (X11)" etag="ehnVft8uvpvgI6FZOV_5" version="13.6.10" type="github">
   <diagram id="D81L5nea5nDwsRMMI9to" name="Page-1">
-    <mxGraphModel dx="1056" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1491" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,6 +110,15 @@
         <mxCell id="fXNb3t5X5u0wccVjVUCc-21" value="&lt;span style=&quot;left: 673.778px ; top: 874.826px ; font-size: 16.6667px ; font-family: sans-serif ; transform: scalex(1.00423)&quot;&gt;Non-historical cost &lt;/span&gt;&lt;span style=&quot;left: 710.328px ; top: 894.826px ; font-size: 16.6667px ; font-family: sans-serif ; transform: scalex(1.03429)&quot;&gt;methods&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fXNb3t5X5u0wccVjVUCc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fXNb3t5X5u0wccVjVUCc-22" target="fXNb3t5X5u0wccVjVUCc-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="300" />
+              <mxPoint x="850" y="300" />
+              <mxPoint x="850" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fXNb3t5X5u0wccVjVUCc-22" value="&lt;span style=&quot;left: 681.212px ; top: 962.459px ; font-size: 16.6667px ; font-family: sans-serif ; transform: scalex(1.01186)&quot;&gt;Adjusted Selling &lt;/span&gt;&lt;span style=&quot;left: 723.795px ; top: 982.459px ; font-size: 16.6667px ; font-family: sans-serif ; transform: scalex(0.960175)&quot;&gt;Price&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="220" width="120" height="40" as="geometry" />
         </mxCell>
@@ -147,14 +156,40 @@
         <mxCell id="fXNb3t5X5u0wccVjVUCc-25" value="&lt;span style=&quot;left: 480.661px ; top: 1038.05px ; font-size: 16.6667px ; font-family: sans-serif ; transform: scalex(0.995999)&quot;&gt;Historical cost &lt;/span&gt;&lt;span style=&quot;left: 499.994px ; top: 1058.05px ; font-size: 16.6667px ; font-family: sans-serif ; transform: scalex(1.03429)&quot;&gt;methods&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="340" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fXNb3t5X5u0wccVjVUCc-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fXNb3t5X5u0wccVjVUCc-26" target="fXNb3t5X5u0wccVjVUCc-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fXNb3t5X5u0wccVjVUCc-26" value="&lt;span style=&quot;left: 217.394px ; top: 1029.78px ; font-size: 16.6667px ; font-family: sans-serif ; transform: scalex(1.02193)&quot;&gt;Specic &lt;/span&gt;&lt;span style=&quot;left: 196.127px ; top: 1048.11px ; font-size: 16.6667px ; font-family: sans-serif ; transform: scalex(1.105)&quot;&gt;identication &lt;/span&gt;&lt;span style=&quot;left: 216.694px ; top: 1066.45px ; font-size: 16.6667px ; font-family: sans-serif ; transform: scalex(1.05934)&quot;&gt;method&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXNb3t5X5u0wccVjVUCc-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fXNb3t5X5u0wccVjVUCc-27" target="fXNb3t5X5u0wccVjVUCc-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fXNb3t5X5u0wccVjVUCc-27" value="&lt;span style=&quot;left: 515.094px ; top: 1126.05px ; font-size: 16.6667px ; font-family: sans-serif ; transform: scalex(0.926851)&quot;&gt;LIFO&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="420" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fXNb3t5X5u0wccVjVUCc-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fXNb3t5X5u0wccVjVUCc-28" target="fXNb3t5X5u0wccVjVUCc-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="480" />
+              <mxPoint x="620" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fXNb3t5X5u0wccVjVUCc-28" value="&lt;span style=&quot;left: 371.677px ; top: 1126.05px ; font-size: 16.6667px ; font-family: sans-serif ; transform: scalex(0.911348)&quot;&gt;FIFO&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fXNb3t5X5u0wccVjVUCc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fXNb3t5X5u0wccVjVUCc-29" target="fXNb3t5X5u0wccVjVUCc-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="480" />
+              <mxPoint x="620" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fXNb3t5X5u0wccVjVUCc-29" value="&lt;span style=&quot;left: 643.544px ; top: 1114.23px ; font-size: 16.6667px ; font-family: sans-serif ; transform: scalex(1.01123)&quot;&gt;Weighted &lt;/span&gt;&lt;span style=&quot;left: 628.744px ; top: 1132.56px ; font-size: 16.6667px ; font-family: sans-serif ; transform: scalex(0.97637)&quot;&gt;Average Price&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="420" width="120" height="40" as="geometry" />
@@ -176,6 +211,9 @@
         </mxCell>
         <mxCell id="fXNb3t5X5u0wccVjVUCc-45" value="where it is not possible to find the cost of every unit used in retail stores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXNb3t5X5u0wccVjVUCc-48" value="specimen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="500" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
