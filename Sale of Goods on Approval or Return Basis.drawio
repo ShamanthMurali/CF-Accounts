@@ -1,1 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T10:14:35.790Z" agent="5.0 (X11)" etag="tnbpj64x9pb-MqWCRV_U" version="13.6.10" type="github"><diagram id="XO7ahy35oFJHmfFpwdeW" name="Page-1">ddHNEoIgEADgp+GOUI13s7p08tCZkU2YQddBGq2nDwfMGOvCLN8uLD+EF+10tqJXV5RgCKNyIvxIGMsPuR9neAbYMR6gsVoGylao9Asi0qgPLWFICh2icbpPscaug9olJqzFMS27o0m79qKBDVS1MFu9aelUvNaern4B3ailc0ZjphVLcYRBCYnjF/GS8MIiuhC1UwFmfrvlXcK605/s52AWOvdjgQ/Wvf0k+SBevgE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-13T10:49:22.914Z" agent="5.0 (X11)" etag="9k2PeyZtYCV6hP7lyUYY" version="13.6.10" type="github">
+  <diagram id="XO7ahy35oFJHmfFpwdeW" name="Page-1">
+    <mxGraphModel dx="1264" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USHChUwwJ4gJDzVkKCaV-1" target="USHChUwwJ4gJDzVkKCaV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USHChUwwJ4gJDzVkKCaV-1" target="USHChUwwJ4gJDzVkKCaV-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="70" />
+              <mxPoint x="740" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USHChUwwJ4gJDzVkKCaV-1" target="USHChUwwJ4gJDzVkKCaV-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="70" />
+              <mxPoint x="140" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-1" value="&lt;span style=&quot;left: 350.677px ; top: 338.118px ; font-size: 20px ; font-family: sans-serif ; transform: scalex(0.976638)&quot;&gt;Sale of Goods on Approval or Return Basis&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="USHChUwwJ4gJDzVkKCaV-2" target="USHChUwwJ4gJDzVkKCaV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-2" value="&lt;span style=&quot;left: 321.549px ; top: 294.513px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.03915)&quot;&gt;Frequently&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="USHChUwwJ4gJDzVkKCaV-3" target="USHChUwwJ4gJDzVkKCaV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-3" value="&lt;span style=&quot;left: 240.441px ; top: 294.513px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.97733)&quot;&gt;Casually&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USHChUwwJ4gJDzVkKCaV-4" target="USHChUwwJ4gJDzVkKCaV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USHChUwwJ4gJDzVkKCaV-4" target="USHChUwwJ4gJDzVkKCaV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-4" value="&lt;span style=&quot;left: 419.253px ; top: 294.513px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.01881)&quot;&gt;Numerously&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-7" value="&lt;span style=&quot;left: 223.994px ; top: 344.65px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.00039)&quot;&gt;Transaction &lt;/span&gt;&lt;span style=&quot;left: 229.02px ; top: 356.406px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.00922)&quot;&gt;is treated &lt;/span&gt;&lt;span style=&quot;left: 224.229px ; top: 368.163px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.981029)&quot;&gt;as Ordinary &lt;/span&gt;&lt;span style=&quot;left: 240.306px ; top: 379.919px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.941603)&quot;&gt;Sale&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-8" value="&lt;span style=&quot;left: 369.928px ; top: 479.68px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.954382)&quot;&gt;Goods &lt;/span&gt;&lt;span style=&quot;left: 362.346px ; top: 491.437px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.04461)&quot;&gt;Approved&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-9" value="&lt;span style=&quot;left: 303.163px ; top: 480.454px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.954382)&quot;&gt;Goods &lt;/span&gt;&lt;span style=&quot;left: 296.883px ; top: 492.211px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.01658)&quot;&gt;Returned&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-10" value="&lt;span style=&quot;left: 436.821px ; top: 485.853px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.964134)&quot;&gt;Balance&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-11" value="&lt;span style=&quot;left: 225.072px ; top: 479.68px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.962263)&quot;&gt;Goods sent &lt;/span&gt;&lt;span style=&quot;left: 222.681px ; top: 491.437px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.0342)&quot;&gt;on Approval&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USHChUwwJ4gJDzVkKCaV-12" target="USHChUwwJ4gJDzVkKCaV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-12" value="&lt;span style=&quot;left: 379.706px ; top: 336.94px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.933286)&quot;&gt;Sales or &lt;/span&gt;&lt;span style=&quot;left: 372.348px ; top: 348.696px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.981774)&quot;&gt;Return Day &lt;/span&gt;&lt;span style=&quot;left: 385.398px ; top: 360.453px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.01288)&quot;&gt;Book&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USHChUwwJ4gJDzVkKCaV-13" target="USHChUwwJ4gJDzVkKCaV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-13" value="&lt;span style=&quot;left: 448.646px ; top: 336.94px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.933286)&quot;&gt;Sales or &lt;/span&gt;&lt;span style=&quot;left: 450.782px ; top: 348.696px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.994217)&quot;&gt;Return &lt;/span&gt;&lt;span style=&quot;left: 450.38px ; top: 360.453px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.0057)&quot;&gt;Ledger&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-14" value="&lt;span style=&quot;left: 407.117px ; top: 406.018px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.968042)&quot;&gt;Treated as &lt;/span&gt;&lt;span style=&quot;left: 398.437px ; top: 417.774px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.01455)&quot;&gt;Memorandum &lt;/span&gt;&lt;span style=&quot;left: 416.032px ; top: 429.53px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.987367)&quot;&gt;Books&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USHChUwwJ4gJDzVkKCaV-15" target="USHChUwwJ4gJDzVkKCaV-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="220" />
+              <mxPoint x="105" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USHChUwwJ4gJDzVkKCaV-15" target="USHChUwwJ4gJDzVkKCaV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USHChUwwJ4gJDzVkKCaV-15" target="USHChUwwJ4gJDzVkKCaV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USHChUwwJ4gJDzVkKCaV-15" target="USHChUwwJ4gJDzVkKCaV-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="220" />
+              <mxPoint x="495" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-15" value="&lt;span style=&quot;left: 300.243px ; top: 342.436px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.933286)&quot;&gt;Sales or &lt;/span&gt;&lt;span style=&quot;left: 302.379px ; top: 352.233px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.994217)&quot;&gt;Return &lt;/span&gt;&lt;span style=&quot;left: 296.442px ; top: 362.03px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.976471)&quot;&gt;Journal is &lt;/span&gt;&lt;span style=&quot;left: 297.079px ; top: 371.827px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.01418)&quot;&gt;prepared &lt;/span&gt;&lt;span style=&quot;left: 297.382px ; top: 381.624px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.05371)&quot;&gt;with four &lt;/span&gt;&lt;span style=&quot;left: 306.249px ; top: 391.42px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.00149)&quot;&gt;main &lt;/span&gt;&lt;span style=&quot;left: 298.872px ; top: 401.217px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.00557)&quot;&gt;column&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
