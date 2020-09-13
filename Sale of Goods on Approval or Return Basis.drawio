@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T14:27:47.871Z" agent="5.0 (X11)" etag="nuCmDMZa-dz8yMgXeksH" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-13T14:34:15.440Z" agent="5.0 (X11)" etag="ogNuUEL_JI-MzVkzIIeD" version="13.6.10" type="github">
   <diagram id="XO7ahy35oFJHmfFpwdeW" name="Page-1">
     <mxGraphModel dx="1024" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="USHChUwwJ4gJDzVkKCaV-4" value="&lt;span style=&quot;left: 419.253px ; top: 294.513px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.01881)&quot;&gt;Numerously&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="90" width="120" height="40" as="geometry" />
+          <mxGeometry x="650" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="USHChUwwJ4gJDzVkKCaV-7" value="&lt;span style=&quot;left: 223.994px ; top: 344.65px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.00039)&quot;&gt;Transaction &lt;/span&gt;&lt;span style=&quot;left: 229.02px ; top: 356.406px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.00922)&quot;&gt;is treated &lt;/span&gt;&lt;span style=&quot;left: 224.229px ; top: 368.163px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.981029)&quot;&gt;as Ordinary &lt;/span&gt;&lt;span style=&quot;left: 240.306px ; top: 379.919px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.941603)&quot;&gt;Sale&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="120" height="40" as="geometry" />
@@ -66,16 +66,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="USHChUwwJ4gJDzVkKCaV-12" value="&lt;span style=&quot;left: 379.706px ; top: 336.94px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.933286)&quot;&gt;Sales or &lt;/span&gt;&lt;span style=&quot;left: 372.348px ; top: 348.696px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.981774)&quot;&gt;Return Day &lt;/span&gt;&lt;span style=&quot;left: 385.398px ; top: 360.453px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.01288)&quot;&gt;Book&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="580" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="USHChUwwJ4gJDzVkKCaV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USHChUwwJ4gJDzVkKCaV-13" target="USHChUwwJ4gJDzVkKCaV-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="USHChUwwJ4gJDzVkKCaV-13" value="&lt;span style=&quot;left: 448.646px ; top: 336.94px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.933286)&quot;&gt;Sales or &lt;/span&gt;&lt;span style=&quot;left: 450.782px ; top: 348.696px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.994217)&quot;&gt;Return &lt;/span&gt;&lt;span style=&quot;left: 450.38px ; top: 360.453px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.0057)&quot;&gt;Ledger&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="720" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="USHChUwwJ4gJDzVkKCaV-14" value="&lt;span style=&quot;left: 407.117px ; top: 406.018px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.968042)&quot;&gt;Treated as &lt;/span&gt;&lt;span style=&quot;left: 398.437px ; top: 417.774px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.01455)&quot;&gt;Memorandum &lt;/span&gt;&lt;span style=&quot;left: 416.032px ; top: 429.53px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.987367)&quot;&gt;Books&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="650" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="USHChUwwJ4gJDzVkKCaV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USHChUwwJ4gJDzVkKCaV-15" target="USHChUwwJ4gJDzVkKCaV-11">
           <mxGeometry relative="1" as="geometry">
