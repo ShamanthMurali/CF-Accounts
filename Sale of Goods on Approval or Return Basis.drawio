@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T10:49:22.914Z" agent="5.0 (X11)" etag="9k2PeyZtYCV6hP7lyUYY" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-13T11:04:37.830Z" agent="5.0 (X11)" etag="An1oUoBBs4JJ37CU55qa" version="13.6.10" type="github">
   <diagram id="XO7ahy35oFJHmfFpwdeW" name="Page-1">
-    <mxGraphModel dx="1264" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,6 +101,99 @@
         </mxCell>
         <mxCell id="USHChUwwJ4gJDzVkKCaV-15" value="&lt;span style=&quot;left: 300.243px ; top: 342.436px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.933286)&quot;&gt;Sales or &lt;/span&gt;&lt;span style=&quot;left: 302.379px ; top: 352.233px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.994217)&quot;&gt;Return &lt;/span&gt;&lt;span style=&quot;left: 296.442px ; top: 362.03px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(0.976471)&quot;&gt;Journal is &lt;/span&gt;&lt;span style=&quot;left: 297.079px ; top: 371.827px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.01418)&quot;&gt;prepared &lt;/span&gt;&lt;span style=&quot;left: 297.382px ; top: 381.624px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.05371)&quot;&gt;with four &lt;/span&gt;&lt;span style=&quot;left: 306.249px ; top: 391.42px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.00149)&quot;&gt;main &lt;/span&gt;&lt;span style=&quot;left: 298.872px ; top: 401.217px ; font-size: 9.79688px ; font-family: sans-serif ; transform: scalex(1.00557)&quot;&gt;column&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-29" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="530" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-29">
+          <mxGeometry width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-31" value="&lt;u&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;left: 60px ; top: 846.637px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.837582)&quot;&gt;1. &lt;/span&gt;&lt;span style=&quot;left: 93.0733px ; top: 846.637px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.919504)&quot;&gt;When goods are sent on sale or return basis:&lt;/span&gt;&lt;/font&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-30">
+          <mxGeometry width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-32" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-30">
+          <mxGeometry x="420" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-33" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-29">
+          <mxGeometry y="40" width="530" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-34" value="&lt;div&gt;&lt;span style=&quot;left: 126.147px ; top: 879.436px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.875205)&quot;&gt;Trade receivables / Customers Account                              &lt;/span&gt;&lt;span style=&quot;left: 540.003px ; top: 879.436px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.863618)&quot;&gt;Dr.  &lt;/span&gt;&lt;span style=&quot;left: 159.22px ; top: 912.234px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.900552)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;left: 159.22px ; top: 912.234px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.900552)&quot;&gt;To Sales Account&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-33">
+          <mxGeometry width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-35" value="&lt;div&gt;XXX&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; XXX&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-33">
+          <mxGeometry x="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-36" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-29">
+          <mxGeometry y="90" width="530" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-37" value="&lt;u&gt;&lt;span style=&quot;left: 60px ; top: 945.032px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.837582)&quot;&gt;2. &lt;/span&gt;&lt;span style=&quot;left: 93.0733px ; top: 945.032px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.958912)&quot;&gt;When goods are rejected or returned within the specied time&lt;/span&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-36">
+          <mxGeometry width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-38" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-36">
+          <mxGeometry x="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-39" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-29">
+          <mxGeometry y="140" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-40" value="&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;left: 126.147px ; top: 977.831px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.749321)&quot;&gt;Sales/Return Inwards Account                                                            &lt;/span&gt;&lt;span style=&quot;left: 540.003px ; top: 977.831px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.881947)&quot;&gt;Dr. &lt;/span&gt;&lt;span style=&quot;left: 600.008px ; top: 977.831px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.949845)&quot;&gt;&lt;/span&gt;&lt;span style=&quot;left: 93.0733px ; top: 1010.63px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.880655)&quot;&gt; &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;left: 93.0733px ; top: 1010.63px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.880655)&quot;&gt;To Customers/Trade receivables Account&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-39">
+          <mxGeometry width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-41" value="&lt;div&gt;XXX&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; XXX&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-39">
+          <mxGeometry x="420" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-42" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-29">
+          <mxGeometry y="200" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-43" value="&lt;u&gt;&lt;span style=&quot;left: 60px ; top: 1043.43px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.837582)&quot;&gt;3. &lt;/span&gt;&lt;span style=&quot;left: 93.0733px ; top: 1043.43px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.930043)&quot;&gt;When goods are accepted at invoice price:&lt;/span&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-42">
+          <mxGeometry width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-44" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-42">
+          <mxGeometry x="420" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-45" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-29">
+          <mxGeometry y="240" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-46" value="&lt;span style=&quot;left: 126.147px ; top: 1076.23px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.962299)&quot;&gt;[No entry]&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-45">
+          <mxGeometry width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-47" value="nil" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-45">
+          <mxGeometry x="420" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-48" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-29">
+          <mxGeometry y="280" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-49" value="&lt;u&gt;&lt;span style=&quot;left: 90px ; top: 100.47px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.837582)&quot;&gt;4. &lt;/span&gt;&lt;span style=&quot;left: 123.073px ; top: 100.47px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.933809)&quot;&gt;When goods are accepted at a higher price than invoice price:&lt;/span&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-48">
+          <mxGeometry width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-50" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-48">
+          <mxGeometry x="420" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-51" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-29">
+          <mxGeometry y="340" width="530" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-52" value="&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;left: 156.147px ; top: 133.268px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.875205)&quot;&gt;Trade receivables / Customers Account                              &lt;/span&gt;&lt;span style=&quot;left: 570.003px ; top: 133.268px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.908351)&quot;&gt;Dr.&lt;/span&gt;&lt;span style=&quot;left: 123.073px ; top: 166.067px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.771321)&quot;&gt; &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;left: 123.073px ; top: 166.067px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.771321)&quot;&gt;To Sales Account                                                                                          [Difference in price]&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-51">
+          <mxGeometry width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-53" value="&lt;div&gt;xxx&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; xxx&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-51">
+          <mxGeometry x="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-63" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-29">
+          <mxGeometry y="390" width="530" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-64" value="&lt;span style=&quot;left: 90px ; top: 198.865px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.837582)&quot;&gt;5. &lt;/span&gt;&lt;span style=&quot;left: 123.073px ; top: 198.865px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.934803)&quot;&gt;When goods are accepted at a lower price than the invoice price&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-63">
+          <mxGeometry width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-65" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-63">
+          <mxGeometry x="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-29">
+          <mxGeometry y="440" width="530" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-61" value="&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;left: 156.147px ; top: 231.663px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.724024)&quot;&gt;Sales Account                                                                                          Dr.&lt;/span&gt;&lt;span style=&quot;left: 123.073px ; top: 264.462px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.879449)&quot;&gt; &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;left: 123.073px ; top: 264.462px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.879449)&quot;&gt;To Trade receivables / Customers Account  &lt;/span&gt;&lt;span style=&quot;left: 630.008px ; top: 264.462px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.944896)&quot;&gt;[Difference in price]&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-60">
+          <mxGeometry width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="USHChUwwJ4gJDzVkKCaV-62" value="&lt;div&gt;XXX&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; XXX&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="USHChUwwJ4gJDzVkKCaV-60">
+          <mxGeometry x="420" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
