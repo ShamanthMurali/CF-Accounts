@@ -1,1 +1,156 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T06:57:45.854Z" agent="5.0 (X11)" version="13.7.5" etag="XOL5_ACKvsG_LW8815m2" type="github"><diagram id="PScA47Eeo8n96Lyv-9m5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-24T08:37:42.595Z" agent="5.0 (X11)" etag="w4UN-JOxyqIYGhbgIePa" version="13.7.5" type="github">
+  <diagram id="PScA47Eeo8n96Lyv-9m5" name="Page-1">
+    <mxGraphModel dx="1252" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-1" value="Depreciation" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry">
+            <mxRectangle x="360" width="240" height="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-5" value="&lt;div&gt;&lt;b&gt;1.reduction in the value and utility of an asset&lt;/b&gt;&lt;/div&gt;&lt;div&gt;depreciation can be in two ways: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;a) internal &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;i) use &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;b) external&lt;/b&gt;&lt;/div&gt;&lt;div&gt;i) passage of time&lt;/div&gt;&lt;div&gt;ii) getting outdated or obsolescence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;similar concepts to depreciation:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1) Depletion - wasting assets like coal mines&lt;/div&gt;&lt;div&gt;2) amortization - for intangible assets like patents&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="siAptr4N7fF4Iy3nwWH2-1">
+          <mxGeometry y="40" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-2" target="siAptr4N7fF4Iy3nwWH2-3" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-2" value="&lt;div&gt;Depreciable&lt;/div&gt;&lt;div&gt;assets&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="220" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-3" value="&lt;div&gt;1.Expected to be used for more than a year.&lt;/div&gt;&lt;div&gt;(Non-current/fixed assets)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; Has limited usage life (Land is not a dep asset because it has unlimited life).&lt;/div&gt;&lt;div&gt;3. Must be used in the business.&lt;/div&gt;&lt;div&gt;4. Not meant for resale.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="140" y="140" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-11" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-12" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-13" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="140" />
+              <mxPoint x="630" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-14" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="140" />
+              <mxPoint x="770" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-15" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="140" />
+              <mxPoint x="910" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-10" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="140" />
+              <mxPoint x="210" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-9" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="140" />
+              <mxPoint x="70" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-8" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="140" />
+              <mxPoint x="-70" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-7" value="Types of depreciation" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-8" target="siAptr4N7fF4Iy3nwWH2-16" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-8" value="Straight line method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-130" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-9" target="siAptr4N7fF4Iy3nwWH2-19" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-9" value="Reducing balance method (WDV)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="10" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-10" target="siAptr4N7fF4Iy3nwWH2-20" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-10" value="Sum of years digits method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="150" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-11" target="siAptr4N7fF4Iy3nwWH2-18" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-11" value="Annuity method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="290" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-12" target="siAptr4N7fF4Iy3nwWH2-17" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-12" value="Sinking fund method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="430" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-13" target="siAptr4N7fF4Iy3nwWH2-21" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-13" value="&lt;div&gt;Machine hour&lt;/div&gt;&lt;div&gt;Method&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="570" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-14" target="siAptr4N7fF4Iy3nwWH2-22" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-14" value="Production units method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="710" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-15" target="siAptr4N7fF4Iy3nwWH2-23" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-15" value="Depletion method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="850" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-16" value="Equal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-130" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-17" value="Equal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="430" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-18" value="Equal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="290" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-19" value="Reducing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="10" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-20" value="Reducing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="150" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-21" value="Use" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="570" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-22" value="Use" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="710" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-23" value="Use" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="850" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
