@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T10:10:04.573Z" agent="5.0 (X11)" etag="xOn9JlAcSxBnBUlQcrmr" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T15:28:54.025Z" agent="5.0 (X11)" etag="mRqTOOzAat9GgjpNywX8" version="13.7.5" type="github">
   <diagram id="D81L5nea5nDwsRMMI9to" name="Page-1">
-    <mxGraphModel dx="1447" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q3a2ga-pM5mdqZ6wyope-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fXNb3t5X5u0wccVjVUCc-1" target="fXNb3t5X5u0wccVjVUCc-2">
+        <mxCell id="q3a2ga-pM5mdqZ6wyope-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fXNb3t5X5u0wccVjVUCc-1" target="fXNb3t5X5u0wccVjVUCc-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q3a2ga-pM5mdqZ6wyope-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fXNb3t5X5u0wccVjVUCc-1" target="fXNb3t5X5u0wccVjVUCc-19">
+        <mxCell id="q3a2ga-pM5mdqZ6wyope-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fXNb3t5X5u0wccVjVUCc-1" target="fXNb3t5X5u0wccVjVUCc-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fXNb3t5X5u0wccVjVUCc-1" value="Inventories" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -98,7 +98,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q3a2ga-pM5mdqZ6wyope-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fXNb3t5X5u0wccVjVUCc-19" target="q3a2ga-pM5mdqZ6wyope-3">
+        <mxCell id="q3a2ga-pM5mdqZ6wyope-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fXNb3t5X5u0wccVjVUCc-19" target="q3a2ga-pM5mdqZ6wyope-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fXNb3t5X5u0wccVjVUCc-19" value="&lt;span style=&quot;left: 500.99px ; top: 778.497px ; font-size: 16.6667px ; font-family: sans-serif ; transform: scalex(1.02631)&quot;&gt;Inventory Valuation &lt;/span&gt;&lt;span style=&quot;left: 532.44px ; top: 798.497px ; font-size: 16.6667px ; font-family: sans-serif ; transform: scalex(0.992114)&quot;&gt;Techniques&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -221,7 +221,7 @@
         <mxCell id="fXNb3t5X5u0wccVjVUCc-45" value="where it is not possible to find the cost of every unit used in retail stores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="910" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="specimen" link="https://docs.google.com/document/d/1VktXSSDf2XWqteJbNHov7y7YCvBc83zRaRK1J1JCIGo/edit?usp=sharing" id="fXNb3t5X5u0wccVjVUCc-48">
+        <UserObject label="specimen" link="https://docs.google.com/document/d/e/2PACX-1vTQMt6DlJ3p1T-aSsVVIobK3zuhfDCURej429WGpyBXxflDYE27YR-ji-QDXFBocc_-oQz83GWFRnOx/pub" id="fXNb3t5X5u0wccVjVUCc-48">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="600" y="500" width="120" height="40" as="geometry" />
           </mxCell>
@@ -229,14 +229,14 @@
         <mxCell id="JxrgR3-8iPg2-GATv3tE-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" parent="1" vertex="1">
           <mxGeometry x="700" y="490" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q3a2ga-pM5mdqZ6wyope-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q3a2ga-pM5mdqZ6wyope-3" target="fXNb3t5X5u0wccVjVUCc-48">
+        <mxCell id="q3a2ga-pM5mdqZ6wyope-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q3a2ga-pM5mdqZ6wyope-3" target="fXNb3t5X5u0wccVjVUCc-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1100" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q3a2ga-pM5mdqZ6wyope-3" value="Inventory taking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q3a2ga-pM5mdqZ6wyope-3" value="Inventory taking" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="200" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
