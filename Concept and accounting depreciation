@@ -1,33 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T09:29:36.103Z" agent="5.0 (X11)" etag="RzlEDC8w4wbTv5-aUG2e" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-26T06:42:36.059Z" agent="5.0 (X11)" etag="Cel4nvd1Lzao3qFmc59q" version="13.7.5" type="github">
   <diagram id="PScA47Eeo8n96Lyv-9m5" name="Page-1">
-    <mxGraphModel dx="1252" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2041" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-1" value="Depreciation" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-1" value="Depreciation" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="360" width="120" height="40" as="geometry">
             <mxRectangle x="360" width="240" height="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-5" value="&lt;div&gt;&lt;b&gt;1.reduction in the value and utility of an asset&lt;/b&gt;&lt;/div&gt;&lt;div&gt;depreciation can be in two ways: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;a) internal &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;i) use &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;b) external&lt;/b&gt;&lt;/div&gt;&lt;div&gt;i) passage of time&lt;/div&gt;&lt;div&gt;ii) getting outdated or obsolescence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;similar concepts to depreciation:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1) Depletion - wasting assets like coal mines&lt;/div&gt;&lt;div&gt;2) amortization - for intangible assets like patents&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="siAptr4N7fF4Iy3nwWH2-1">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-5" value="&lt;div&gt;&lt;b&gt;1.reduction in the value and utility of an asset&lt;/b&gt;&lt;/div&gt;&lt;div&gt;depreciation can be in two ways: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;a) internal &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;i) use &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;b) external&lt;/b&gt;&lt;/div&gt;&lt;div&gt;i) passage of time&lt;/div&gt;&lt;div&gt;ii) getting outdated or obsolescence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;similar concepts to depreciation:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1) Depletion - wasting assets like coal mines&lt;/div&gt;&lt;div&gt;2) amortization - for intangible assets like patents&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="siAptr4N7fF4Iy3nwWH2-1" vertex="1">
           <mxGeometry y="40" width="240" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-2" target="siAptr4N7fF4Iy3nwWH2-3" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="siAptr4N7fF4Iy3nwWH2-2" target="siAptr4N7fF4Iy3nwWH2-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-2" value="&lt;div&gt;Depreciable&lt;/div&gt;&lt;div&gt;assets&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-2" value="&lt;div&gt;Depreciable&lt;/div&gt;&lt;div&gt;assets&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="220" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-3" value="&lt;div&gt;1.Expected to be used for more than a year.&lt;/div&gt;&lt;div&gt;(Non-current/fixed assets)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; Has limited usage life (Land is not a dep asset because it has unlimited life).&lt;/div&gt;&lt;div&gt;3. Must be used in the business.&lt;/div&gt;&lt;div&gt;4. Not meant for resale.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-3" value="&lt;div&gt;1.Expected to be used for more than a year.&lt;/div&gt;&lt;div&gt;(Non-current/fixed assets)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; Has limited usage life (Land is not a dep asset because it has unlimited life).&lt;/div&gt;&lt;div&gt;3. Must be used in the business.&lt;/div&gt;&lt;div&gt;4. Not meant for resale.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="140" y="140" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-11" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-12" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-13" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="140" />
@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-14" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="140" />
@@ -43,7 +43,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-15" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="140" />
@@ -51,7 +51,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-10" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="140" />
@@ -59,7 +59,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-9" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="140" />
@@ -67,7 +67,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-8" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="siAptr4N7fF4Iy3nwWH2-7" target="siAptr4N7fF4Iy3nwWH2-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="140" />
@@ -75,80 +75,89 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-7" value="Types of depreciation" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-7" value="Types of depreciation" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1">
           <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-8" target="siAptr4N7fF4Iy3nwWH2-16" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="siAptr4N7fF4Iy3nwWH2-8" target="siAptr4N7fF4Iy3nwWH2-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-8" value="Straight line method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-8" value="Straight line method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-130" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-9" target="siAptr4N7fF4Iy3nwWH2-19" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="siAptr4N7fF4Iy3nwWH2-9" target="siAptr4N7fF4Iy3nwWH2-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-9" value="Reducing balance method (WDV)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-9" value="Reducing balance method (WDV)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-10" target="siAptr4N7fF4Iy3nwWH2-20" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="siAptr4N7fF4Iy3nwWH2-10" target="siAptr4N7fF4Iy3nwWH2-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-10" value="Sum of years digits method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-10" value="Sum of years digits method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-11" target="siAptr4N7fF4Iy3nwWH2-18" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="siAptr4N7fF4Iy3nwWH2-11" target="siAptr4N7fF4Iy3nwWH2-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-11" value="Annuity method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-11" value="Annuity method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-12" target="siAptr4N7fF4Iy3nwWH2-17" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="siAptr4N7fF4Iy3nwWH2-12" target="siAptr4N7fF4Iy3nwWH2-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-12" value="Sinking fund method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-12" value="Sinking fund method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-13" target="siAptr4N7fF4Iy3nwWH2-21" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="siAptr4N7fF4Iy3nwWH2-13" target="siAptr4N7fF4Iy3nwWH2-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-13" value="&lt;div&gt;Machine hour&lt;/div&gt;&lt;div&gt;Method&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-13" value="&lt;div&gt;Machine hour&lt;/div&gt;&lt;div&gt;Method&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-14" target="siAptr4N7fF4Iy3nwWH2-22" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="siAptr4N7fF4Iy3nwWH2-14" target="siAptr4N7fF4Iy3nwWH2-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-14" value="Production units method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-14" value="Production units method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-15" target="siAptr4N7fF4Iy3nwWH2-23" visible="0">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="siAptr4N7fF4Iy3nwWH2-15" target="siAptr4N7fF4Iy3nwWH2-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-15" value="Depletion method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-15" value="Depletion method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-16" value="Equal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="-130" y="220" width="120" height="40" as="geometry" />
+        <mxCell id="qtRa_aqnqzNGgonD9pgb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-16" target="qtRa_aqnqzNGgonD9pgb-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-17" value="Equal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="430" y="220" width="120" height="40" as="geometry" />
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-16" value="Equal" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-18" value="Equal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="290" y="220" width="120" height="40" as="geometry" />
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-17" value="Equal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-19" value="Reducing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="10" y="220" width="120" height="40" as="geometry" />
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-18" value="Equal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-20" value="Reducing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="150" y="220" width="120" height="40" as="geometry" />
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-19" value="Reducing" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1">
+          <mxGeometry x="10" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-21" value="Use" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="570" y="220" width="120" height="40" as="geometry" />
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-20" value="Reducing" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-22" value="Use" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="710" y="220" width="120" height="40" as="geometry" />
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-21" value="Use" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-23" value="Use" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="850" y="220" width="120" height="40" as="geometry" />
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-22" value="Use" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-23" value="Use" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qtRa_aqnqzNGgonD9pgb-1" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;formulas&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;$$Depriciation.P.a=\dfrac{Cost.of.the.asset-Residual.value}{Life.of.the.asset}$$&lt;/div&gt;&lt;div&gt;$$Depriciation.Rate=\dfrac{Depriciation.P.a\times 100}{Cost.of.the.asset}$$&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when residual value is 0 or nil this formula can also be used...&lt;/div&gt;&lt;div&gt;$$Depriciation.Rate=\dfrac{1\times 100}{life.of.the.asset}$$&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-295" y="280" width="450" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="qtRa_aqnqzNGgonD9pgb-3" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;br id=&quot;docs-internal-guid-7cb4a73a-7fff-081a-5827-6fc0f5c084d5&quot;&gt;&lt;div dir=&quot;ltr&quot; style=&quot;margin-left: 0pt&quot; align=&quot;left&quot;&gt;&lt;table style=&quot;border: none ; border-collapse: collapse&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;423&quot;&gt;&lt;col width=&quot;91&quot;&gt;&lt;col width=&quot;87&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;particulars&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Dr.&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Cr.&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 8pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;(For charging depreciation)&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Depreciation A/c&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: rgb(255, 0, 0); font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt; Dr.&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;To asset A/&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;c&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 8pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;(On closing the books)&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Profit and loss A/c&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: rgb(255, 0, 0); font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt; Dr.&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;To depreciation A/c&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;br&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;xxx&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;xxx&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;xxx&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;xxx&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;br&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="600" width="550" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
