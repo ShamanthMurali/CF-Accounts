@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-26T17:37:15.267Z" agent="5.0 (X11)" etag="-7AMURbU4CPmeUWa-Di0" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-26T17:48:08.846Z" agent="5.0 (X11)" etag="mvjhdUmP_4V4zRbTjwVM" version="13.7.5" type="github">
   <diagram id="PScA47Eeo8n96Lyv-9m5" name="Page-1">
-    <mxGraphModel dx="2154" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1903" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,10 +126,10 @@
         <mxCell id="siAptr4N7fF4Iy3nwWH2-15" value="Depletion method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qtRa_aqnqzNGgonD9pgb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="siAptr4N7fF4Iy3nwWH2-16" target="qtRa_aqnqzNGgonD9pgb-1" edge="1" visible="0">
+        <mxCell id="qtRa_aqnqzNGgonD9pgb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="siAptr4N7fF4Iy3nwWH2-16" target="qtRa_aqnqzNGgonD9pgb-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-16" value="Equal" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-16" value="Equal" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1">
           <mxGeometry x="-130" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="siAptr4N7fF4Iy3nwWH2-17" value="Equal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -141,7 +141,10 @@
         <mxCell id="siAptr4N7fF4Iy3nwWH2-19" value="Reducing" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1">
           <mxGeometry x="10" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siAptr4N7fF4Iy3nwWH2-20" value="Reducing" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QikXvxZENjZ2bm_5RZEs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siAptr4N7fF4Iy3nwWH2-20" target="QikXvxZENjZ2bm_5RZEs-8" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siAptr4N7fF4Iy3nwWH2-20" value="Reducing" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="150" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="siAptr4N7fF4Iy3nwWH2-21" value="Use" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -152,9 +155,6 @@
         </mxCell>
         <mxCell id="siAptr4N7fF4Iy3nwWH2-23" value="Use" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="200" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qtRa_aqnqzNGgonD9pgb-1" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;formulas&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;$$Depriciation.P.a=\dfrac{Cost.of.the.asset-Residual.value}{Life.of.the.asset}$$&lt;/div&gt;&lt;div&gt;$$Depriciation.Rate=\dfrac{Depriciation.P.a\times 100}{Cost.of.the.asset}$$&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when residual value is 0 or nil this formula can also be used...&lt;/div&gt;&lt;div&gt;$$Depriciation.Rate=\dfrac{1\times 100}{life.of.the.asset}$$&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-295" y="280" width="450" height="270" as="geometry" />
         </mxCell>
         <mxCell id="MRFPLIvdRc_nUOdwj1i2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qtRa_aqnqzNGgonD9pgb-5" target="MRFPLIvdRc_nUOdwj1i2-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -184,6 +184,12 @@
         </mxCell>
         <mxCell id="QikXvxZENjZ2bm_5RZEs-6" value="Accounting entries" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QikXvxZENjZ2bm_5RZEs-8" value="&lt;div&gt;Formula&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$Depreciation.P.a=cost.of.the.asset\times \dfrac{remaining.number.of.years}{sum.of.digits.of.the.life.of.the.asset}$$&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;$$Depreciation.P.a=cost.of.the.asset\times \dfrac{remaining.number.of.years}{\left( \dfrac{n\left( n+1\right) }{2}\right) }$$&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-90" y="280" width="600" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="qtRa_aqnqzNGgonD9pgb-1" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;formulas&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;$$Depriciation.P.a=\dfrac{Cost.of.the.asset-Residual.value}{Life.of.the.asset}$$&lt;/div&gt;&lt;div&gt;$$Depriciation.Rate=\dfrac{Depriciation.P.a\times 100}{Cost.of.the.asset}$$&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when residual value is 0 or nil this formula can also be used...&lt;/div&gt;&lt;div&gt;$$Depriciation.Rate=\dfrac{1\times 100}{life.of.the.asset}$$&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-295" y="280" width="450" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
