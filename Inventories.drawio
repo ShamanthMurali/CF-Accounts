@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T14:08:52.744Z" agent="5.0 (X11)" etag="ad2cEHF2U0URCAhIuSru" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T14:09:08.255Z" agent="5.0 (X11)" etag="oK5A6QSZY7XwiACvTScI" version="13.9.2" type="github">
   <diagram id="D81L5nea5nDwsRMMI9to" name="Page-1">
     <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
           <mxGeometry x="10" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fXNb3t5X5u0wccVjVUCc-10" value="&lt;span style=&quot;left: 720.577px ; top: 665.581px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00235)&quot;&gt;Traded goods&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="130" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="170" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fXNb3t5X5u0wccVjVUCc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fXNb3t5X5u0wccVjVUCc-19" target="fXNb3t5X5u0wccVjVUCc-20" edge="1">
           <mxGeometry relative="1" as="geometry">
