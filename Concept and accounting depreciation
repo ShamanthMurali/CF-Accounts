@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T04:49:03.221Z" agent="5.0 (X11)" etag="9dWGksi01ETVqIMshod1" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T04:53:33.728Z" agent="5.0 (X11)" etag="9gS0xMFf7AVroiaz2VO7" version="13.9.2" type="github">
   <diagram id="PScA47Eeo8n96Lyv-9m5" name="Page-1">
     <mxGraphModel dx="633" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="1" shadow="0">
       <root>
@@ -224,8 +224,8 @@
         <mxCell id="siAptr4N7fF4Iy3nwWH2-5" value="&lt;div&gt;&lt;b&gt;1.reduction in the value and utility of an asset&lt;/b&gt;&lt;/div&gt;&lt;div&gt;depreciation can be in two ways: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;a) internal &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;i) use &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;b) external&lt;/b&gt;&lt;/div&gt;&lt;div&gt;i) passage of time&lt;/div&gt;&lt;div&gt;ii) getting outdated or obsolescence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;similar concepts to depreciation:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1) Depletion - wasting assets like coal mines&lt;/div&gt;&lt;div&gt;2) amortization - for intangible assets like patents&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="siAptr4N7fF4Iy3nwWH2-1" vertex="1">
           <mxGeometry y="40" width="240" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="QikXvxZENjZ2bm_5RZEs-20" value="&lt;div&gt;Depreciation amount = Cost of the asset - Residual value&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$Depreciation.rate=\left( 1-\sqrt[n] {\dfrac{Residual.value}{Cost.of.the.asset}}\right) \times 100$$&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-150" y="260" width="440" height="140" as="geometry" />
+        <mxCell id="QikXvxZENjZ2bm_5RZEs-20" value="&lt;div&gt;Depreciation amount = Cost of the asset - Residual value&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$Depreciation.rate=\left( 1-\sqrt[n] {\dfrac{Residual.value}{Cost.of.the.asset}}\right) \times 100$$&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Abb.&lt;/div&gt;&lt;div&gt;n = no. of years&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="-150" y="260" width="440" height="170" as="geometry" />
         </mxCell>
         <mxCell id="QikXvxZENjZ2bm_5RZEs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QikXvxZENjZ2bm_5RZEs-22" target="QikXvxZENjZ2bm_5RZEs-23" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
