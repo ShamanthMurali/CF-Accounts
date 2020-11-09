@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T04:53:33.728Z" agent="5.0 (X11)" etag="9gS0xMFf7AVroiaz2VO7" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T10:47:37.941Z" agent="5.0 (X11)" etag="9ROs96MMo9sK36_tLUB7" version="13.9.2" type="github">
   <diagram id="PScA47Eeo8n96Lyv-9m5" name="Page-1">
-    <mxGraphModel dx="633" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,31 +239,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QikXvxZENjZ2bm_5RZEs-23" value="the method of depreciation can be changed on in the following three cases" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="640" y="140" width="200" height="50" as="geometry" />
+          <mxGeometry x="620" y="140" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QikXvxZENjZ2bm_5RZEs-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QikXvxZENjZ2bm_5RZEs-24" target="QikXvxZENjZ2bm_5RZEs-25" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QikXvxZENjZ2bm_5RZEs-24" value="1. change only if the law says so" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="640" y="210" width="200" height="40" as="geometry" />
+          <mxGeometry x="620" y="210" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QikXvxZENjZ2bm_5RZEs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QikXvxZENjZ2bm_5RZEs-25" target="QikXvxZENjZ2bm_5RZEs-26" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QikXvxZENjZ2bm_5RZEs-25" value="2. change due the change in the accounting standard" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="640" y="270" width="200" height="40" as="geometry" />
+          <mxGeometry x="620" y="270" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QikXvxZENjZ2bm_5RZEs-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QikXvxZENjZ2bm_5RZEs-26" target="QikXvxZENjZ2bm_5RZEs-31" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QikXvxZENjZ2bm_5RZEs-26" value="3. if it helps in better presentation of the financial statements" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="640" y="330" width="200" height="40" as="geometry" />
+          <mxGeometry x="620" y="330" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QikXvxZENjZ2bm_5RZEs-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QikXvxZENjZ2bm_5RZEs-31" target="QikXvxZENjZ2bm_5RZEs-32" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QikXvxZENjZ2bm_5RZEs-31" value="method to change" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="680" y="390" width="120" height="40" as="geometry" />
+          <mxGeometry x="660" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QikXvxZENjZ2bm_5RZEs-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QikXvxZENjZ2bm_5RZEs-32" target="QikXvxZENjZ2bm_5RZEs-34" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -271,20 +271,20 @@
         <mxCell id="QikXvxZENjZ2bm_5RZEs-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QikXvxZENjZ2bm_5RZEs-32" target="QikXvxZENjZ2bm_5RZEs-33" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QikXvxZENjZ2bm_5RZEs-32" value="1. retrospective effect" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="680" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="QikXvxZENjZ2bm_5RZEs-32" value="1. not retrospective effect" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="660" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QikXvxZENjZ2bm_5RZEs-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QikXvxZENjZ2bm_5RZEs-33" target="QikXvxZENjZ2bm_5RZEs-36" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QikXvxZENjZ2bm_5RZEs-33" value="2. transfer the difference to profit and loss account" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="680" y="510" width="120" height="50" as="geometry" />
+          <mxGeometry x="660" y="510" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QikXvxZENjZ2bm_5RZEs-34" value="change from day one" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="820" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="QikXvxZENjZ2bm_5RZEs-34" value="the past need not be changed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="800" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QikXvxZENjZ2bm_5RZEs-36" value="difference = old method WDV of asset - new value of WDV of the asset" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="820" y="515" width="240" height="40" as="geometry" />
+          <mxGeometry x="800" y="515" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
