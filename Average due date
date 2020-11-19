@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T11:13:44.030Z" agent="5.0 (X11)" etag="KhZ1WiSB87MEHgnvIux7" version="13.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T02:19:24.575Z" agent="5.0 (X11)" etag="QhuCOw7CLnKxCJrcW43z" version="13.9.9" type="github">
   <diagram id="dvQGzS4CvfoN_zwYlbep" name="Page-1">
-    <mxGraphModel dx="1304" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="986" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,7 +136,7 @@
         </mxCell>
         <mxCell id="MriFsMpgROSnxOZJt01T-1" value="Grace day note IMP" style="swimlane;swimlaneFillColor=#333333;fillColor=#FF0000;shadow=0;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="670" y="358.5" width="150" height="23" as="geometry">
-            <mxRectangle x="670" y="358.5" width="200" height="121.5" as="alternateBounds" />
+            <mxRectangle x="670" y="358.5" width="200" height="221.5" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MriFsMpgROSnxOZJt01T-2" value="Grace days must only be added if there is tenure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MriFsMpgROSnxOZJt01T-1" vertex="1">
@@ -144,6 +144,9 @@
         </mxCell>
         <mxCell id="MriFsMpgROSnxOZJt01T-7" value="&lt;u&gt;&lt;b&gt;If tenure is given&amp;nbsp;&lt;/b&gt;&lt;/u&gt;&lt;br&gt;+3 if given in months" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MriFsMpgROSnxOZJt01T-1" vertex="1">
           <mxGeometry y="70" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WYAwJLSU39SnlNT-XQKE-1" value="&lt;u&gt;&lt;b&gt;If no tenure and due date &lt;/b&gt;&lt;/u&gt;&lt;br&gt;+2 days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MriFsMpgROSnxOZJt01T-1">
+          <mxGeometry y="110" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
